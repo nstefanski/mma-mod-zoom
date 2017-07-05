@@ -1,0 +1,16 @@
+{
+    "mma.mod_zoom.audiooptions": "Audio Options",
+    "mma.mod_zoom.beforehost": "Join meeting before host",
+    "mma.mod_zoom.disabled": "No",
+    "mma.mod_zoom.duration": "Duration",
+    "mma.mod_zoom.enabled": "Yes",
+    "mma.mod_zoom.joinmeeting": "Join Meeting",
+    "mma.mod_zoom.meetingtitle": "Zoom Meeting",
+    "mma.mod_zoom.passwordprotected": "Password Protected",
+    "mma.mod_zoom.recurring": "Recurring meeting (meeting with no end date or time)",
+    "mma.mod_zoom.starthost": "Start video when host joins",
+    "mma.mod_zoom.startpart": "Start video when participant joins",
+    "mma.mod_zoom.starttime": "Start Time",
+    "mma.mod_zoom.status": "Status",
+    "mma.mod_zoom.unabletojoin": "Unable to join at this time"
+}
