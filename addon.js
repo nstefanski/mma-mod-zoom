@@ -70,8 +70,8 @@ angular.module('mm.addons.mod_zoom')
       };
       self.getController = function(module, courseId) {
         return function($scope) {
-          $scope.icon = $mmCourse.getModuleIconSrc('zoom');
           $scope.title = module.name;
+          $scope.icon = '$ADDONPATH$/icon.gif'
           $scope.class = 'mma-mod_zoom-handler';
           $scope.action = function(e) {
             $state.go('site.mod_zoom', {module: module, courseid: courseId});
